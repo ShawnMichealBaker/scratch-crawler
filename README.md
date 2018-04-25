@@ -1,6 +1,6 @@
 # scratch-crawler
 
-##用来抓取scratch素材的爬虫
+## 用来抓取scratch素材的爬虫
 
 1. 运行app1 通过spriteLibrary.json中的数组中的 一个一个的对象获取一个一个的json文件 放到asset1目录下
 2. 运行app2 通过asset1目录中的 一个一个的json文件获取一个一个的音频 放到asset2目录下
